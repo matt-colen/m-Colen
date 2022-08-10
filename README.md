@@ -4,7 +4,7 @@
 
 * Front End Web Development
 * Challening the "that's the way it's always been done" mindset
-* Electric Guitar (my Fender Jaguar is my baby) :guitar:
+* Electric Guitar (I love Fender offset guitars) :guitar:
 * All things classic rock :notes:
 * Rocket League 
 
@@ -16,11 +16,11 @@
 * Git
 * GitHub :octocat:
 * Command Line (Git Bash specifically)
+* Testing with Mocha
 
 ### I'm currently learning/completing:
 
 * React
-* Testing with Mocha
 * CodeCademy - Front End Engineer Certificate
 
 #### Reach out to me [by email](mailto:mzcolen@gmail.com) to learn more :smile:
