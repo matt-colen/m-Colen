@@ -3,7 +3,6 @@
 ### My interest are:
 
 * Front End Web Development
-* Challening the "that's the way it's always been done" mindset
 * Electric Guitar (I love Fender offset guitars) :guitar:
 * All things classic rock :notes:
 * Rocket League 
