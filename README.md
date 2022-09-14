@@ -23,4 +23,4 @@
 * React
 * CodeCademy - Front End Engineer Certificate
 
-#### Reach out to me [by email](mailto:mzcolen@gmail.com) to learn more :smile:
+#### [Reach out to me](mailto:mzcolen@gmail.com) to learn more :smile:
