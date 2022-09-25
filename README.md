@@ -1,13 +1,13 @@
 # Hi, I'm Matt Colen (@m-Colen) 
 
-### My interest are:
+### Things I Love:
 
-* Front End Web Development
-* Electric Guitar (I love Fender offset guitars) :guitar:
-* All things classic rock :notes:
+* Front end web development
+* Electric guitar (I love Fender offset guitars) :guitar:
+* Classic rock :notes:
 * Rocket League 
 
-### I currently have experience with: 
+### Tech Stack:
 
 * JavaScript (Vanilla)
 * CSS
@@ -17,7 +17,7 @@
 * Command Line (Git Bash specifically)
 * Testing with Mocha
 
-### I'm currently learning/completing:
+### Currently Learning/Completing:
 
 * React
 * CodeCademy - Front End Engineer Certificate
