@@ -2,24 +2,23 @@
 
 ### Things I Love:
 
-* Front end web development
-* Web design
-* Electric guitar (I love Fender offset guitars) :guitar:
-* Classic rock :notes:
-* Rocket League 
+* Solving development challenges
+* Making this with good UX/UI Design
+* Playing electric guitar (I love my Fender Mustangs) :guitar:
+* Listening to classic rock :notes:
+* Playing some Rocket League 
 
-### Tech Stack:
+### Proficient with:
 
-* JavaScript
-* CSS
 * HTML
+* CSS
+* JavaScript
 * Git
 * GitHub :octocat:
 * Command Line
-* Mocha
 * Figma
 
-### Currently Learning/Completing:
+### Building skills in:
 
 * React
 * Photoshop
