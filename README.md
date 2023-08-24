@@ -1,14 +1,14 @@
 # Hi, I'm Matt Colen (@m-Colen) 
 
-### Things I Love:
+### I enjoy:
 
-* Solving development challenges
-* Making this with good UX/UI Design
+* Solving problems with code
+* Making things with good UX/UI
 * Playing electric guitar (I love my Fender Mustangs) :guitar:
 * Listening to classic rock :notes:
-* Playing some Rocket League 
+* Playing Rocket League 
 
-### Proficient with:
+### I'm skilled in:
 
 * HTML
 * CSS
@@ -18,7 +18,7 @@
 * Command Line
 * Figma
 
-### Building skills in:
+### I'm building skills in:
 
 * React
 * Photoshop
