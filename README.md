@@ -8,7 +8,7 @@
 * Listening to classic rock :notes:
 * Playing Rocket League 
 
-### I'm skilled in:
+### I've mastered:
 
 * HTML
 * CSS
