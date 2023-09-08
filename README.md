@@ -1,4 +1,4 @@
-# Hi, I'm Matt Colen (@m-Colen) 
+# Hi, I'm Matt Colen (@m-Colen) 👋
 
 ### I enjoy:
 
@@ -8,13 +8,12 @@
 * Listening to classic rock :notes:
 * Playing Rocket League 
 
-### I've mastered:
+### I've have strong skills in:
 
 * HTML
 * CSS
 * JavaScript
 * Git
-* GitHub :octocat:
 * Command Line
 * Figma
 
