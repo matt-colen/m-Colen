@@ -8,7 +8,7 @@
 * Listening to classic rock :notes:
 * Playing Rocket League 
 
-### I've have strong skills in:
+### I have strong skills in:
 
 * HTML
 * CSS
